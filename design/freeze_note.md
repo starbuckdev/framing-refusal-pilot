@@ -58,4 +58,13 @@ See observations.md (unrecoverable original Ebola refusal; interface
 pause on a follow-up message). Both are uncontrolled and not part of the data.
 
 ## Addenda
-(none)
+### 2026-10-09: run order (before any data collection)
+The protocol above says framing order is randomized, with Ebola run
+last. Because the most severe prompts may trigger account-level flags
+or restrictions, run order is changed to tiers: (1) caffeine and
+E. coli O157:H7, (2) cyanide and radiation, (3) Francisella
+tularensis, (4) Ebola. All three models complete a tier before the
+next tier starts. Within each tier, the order of prompts is a seeded
+random shuffle. No data had been collected when this addendum was
+written. If a model or account becomes unavailable partway through,
+the missing cells are reported as missing, not replaced.
