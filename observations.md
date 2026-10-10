@@ -9,8 +9,8 @@ In fresh chats, DeepSeek and Claude each answered an Ebola infectious
 dose question in both analytical and goal-directed wording, with no
 refusal and no appended warning. This ran before the prompts were
 frozen, with wording that differed from the frozen prompts. The cells
-are marked as pilot-informed in predictions.md. Details are in
-data/pilot_log.csv.
+are marked as pilot-informed in predictions.md. These runs were not coded per
+response.
 
 ## 2. Interface pause on a follow-up message
 In a Claude chat that had already answered the Ebola prompts, I sent a

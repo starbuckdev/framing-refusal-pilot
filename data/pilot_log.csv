@@ -1,1 +1,1 @@
-date,model,model_version_shown,access_method,search_status,topic_id,framing,prompt_as_run,run_order,refusal,refusal_label,append,usability,accuracy,interface_block,followup_question,flag_second_pass,used_in_prediction,notes
+date,model,model_version_shown,access_method,topic_id,framing,prompt_as_run,run_order,refusal,refusal_label,append,usability,accuracy,interface_block,followup_question,flag_second_pass,used_in_prediction,notes
