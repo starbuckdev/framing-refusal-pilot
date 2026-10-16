@@ -18,6 +18,8 @@ Design frozen 2026-10-09 (tag `v0-preregistered`). All responses
 collected and coded 2026-10-10. This is descriptive: one response per
 cell, so the counts are indicative, not stable estimates.
 
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit: starbuckdev.
+
 ## Why
 
 Refusal is sensitive to surface features. Models over-refuse safe
