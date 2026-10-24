@@ -42,6 +42,8 @@ Soft/hard refusal, Append and Block. This is a small pilot, with one
 response per question on one day, so the counts indicate patterns worth
 testing and do not establish them.
 
+Slides: https://starbuckdev.github.io/framing-refusal-pilot/slides/
+
 ## Summary
 
 A small, dated, re-runnable pilot. Holding the requested quantity
@@ -372,4 +374,5 @@ agreement rate.
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 Credit: starbuckdev.
-
+Third-party images and logos in `slides/` are credited on the final slide 
+and are not covered by this license.
